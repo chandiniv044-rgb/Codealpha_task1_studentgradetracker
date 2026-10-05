@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CodeAlpha_StudentGradeTracker
 
 > **CodeAlpha Java Programming Internship — Task 1: Student Grade Tracker**
@@ -82,3 +83,6 @@ java -cp bin com.codealpha.gradetracker.Main --console
 ## ⚙️ Requirements
 - **Java SE Development Kit (JDK)**: Java 8 or higher (Tested on JDK 25).
 - **IDE**: Visual Studio Code (with *Extension Pack for Java*) or Intellij IDEA / Eclipse.
+=======
+# Codealpha_task1_studentgradetracker
+>>>>>>> 1728c7aa89e151af6d32883bb8d47ecec923a4a1
