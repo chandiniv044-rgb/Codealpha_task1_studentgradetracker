@@ -1,0 +1,29 @@
+====================================================
+         STUDENT GRADE TRACKER - SUMMARY REPORT     
+====================================================
+
+Total Students:          5
+Total Grades Recorded:   15
+Class Average Score:     83.83
+Class Highest Score:     99.00
+Class Lowest Score:      58.50
+Top Student:             Carol Williams (STU-103) - Avg: 96.83
+
+----------------------------------------------------
+GRADE DISTRIBUTION:
+  A (90-100)   : 6
+  B (80-89)    : 4
+  C (70-79)    : 3
+  D (60-69)    : 1
+  F (<60)      : 1
+----------------------------------------------------
+
+STUDENT DETAILS:
+ID         | Name                 | Department      | Average  | Grade 
+------------------------------------------------------------------
+STU-101    | Alice Johnson        | Computer Science | 91.83    | A     
+STU-102    | Bob Smith            | Electrical Eng  | 78.50    | C     
+STU-103    | Carol Williams       | Computer Science | 96.83    | A     
+STU-104    | David Brown          | Mechanical Eng  | 63.50    | D     
+STU-105    | Emma Davis           | Data Science    | 88.50    | B     
+====================================================

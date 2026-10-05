@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run Student Grade Tracker (GUI)",
+            "request": "launch",
+            "mainClass": "com.codealpha.gradetracker.Main",
+            "projectName": "CodeAlpha_StudentGradeTracker"
+        },
+        {
+            "type": "java",
+            "name": "Run Student Grade Tracker (Console CLI)",
+            "request": "launch",
+            "mainClass": "com.codealpha.gradetracker.Main",
+            "args": "--console",
+            "projectName": "CodeAlpha_StudentGradeTracker"
+        }
+    ]
+}
